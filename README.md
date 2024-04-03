@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Next JS, Tailwind CSS, React Native,**
+- 🌱 I’m currently learning **Next JS, Tailwind CSS, Node JS, Express JS, MongoDB**
 
 - 💬 Ask me about **React JS, Javascript, Redux, HTML5, CSS3**
 
